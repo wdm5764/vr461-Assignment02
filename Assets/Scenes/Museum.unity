@@ -7480,7 +7480,7 @@ GameObject:
   m_Component:
   - component: {fileID: 722346924}
   m_Layer: 0
-  m_Name: Exhibit_06_HandheldRevolution
+  m_Name: Exhibit_06_EMPTY
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -7601,8 +7601,9 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 734297174}
+  - component: {fileID: 734297175}
   m_Layer: 0
-  m_Name: Exhibit_10_Gen10_PS5
+  m_Name: Exhibit_10_PS5
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -7625,6 +7626,19 @@ Transform:
   - {fileID: 300958950}
   m_Father: {fileID: 542465838}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &734297175
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 734297173}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 156ece14bd590144f85398fabced07e8, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::ProximityAppearance
+  plinthObject: {fileID: 1307114576}
 --- !u!1 &760653044
 GameObject:
   m_ObjectHideFlags: 0
@@ -9439,6 +9453,11 @@ MonoBehaviour:
   m_Teleporting:
     m_PersistentCalls:
       m_Calls: []
+--- !u!1 &1048144586 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 919132149155446097, guid: f32c536a0f3eb8a4eb7fc36a283659c0, type: 3}
+  m_PrefabInstance: {fileID: 1815919947}
+  m_PrefabAsset: {fileID: 0}
 --- !u!1 &1052032517
 GameObject:
   m_ObjectHideFlags: 0
@@ -10082,8 +10101,9 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1138812398}
+  - component: {fileID: 1138812399}
   m_Layer: 0
-  m_Name: Exhibit_01_TheDawnofGames
+  m_Name: Exhibit_01_Odyssey
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -10105,6 +10125,19 @@ Transform:
   - {fileID: 1367229833}
   m_Father: {fileID: 542465838}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &1138812399
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1138812397}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 156ece14bd590144f85398fabced07e8, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: '::'
+  plinthObject: {fileID: 1662949129}
 --- !u!1 &1212602369
 GameObject:
   m_ObjectHideFlags: 0
@@ -11247,8 +11280,9 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1278985965}
+  - component: {fileID: 1278985966}
   m_Layer: 0
-  m_Name: Exhibit_03_HomeConsolesAndTheCrash
+  m_Name: Exhibit_03_NES
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -11270,6 +11304,24 @@ Transform:
   - {fileID: 950439881}
   m_Father: {fileID: 542465838}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &1278985966
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1278985964}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 156ece14bd590144f85398fabced07e8, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::ProximityAppearance
+  plinthObject: {fileID: 586786297}
+--- !u!1 &1307114576 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 919132149155446097, guid: b158da61f65c4944084f0b6d917aca5b, type: 3}
+  m_PrefabInstance: {fileID: 300958949}
+  m_PrefabAsset: {fileID: 0}
 --- !u!1 &1344369352
 GameObject:
   m_ObjectHideFlags: 0
@@ -12294,8 +12346,9 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1412014609}
+  - component: {fileID: 1412014610}
   m_Layer: 0
-  m_Name: Exhibit_07_Gen07_Sega_DreamCast
+  m_Name: Exhibit_07_PS2
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -12318,6 +12371,19 @@ Transform:
   - {fileID: 1120019428}
   m_Father: {fileID: 542465838}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &1412014610
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1412014608}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 156ece14bd590144f85398fabced07e8, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::ProximityAppearance
+  plinthObject: {fileID: 1850585442}
 --- !u!1001 &1414625969
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -12411,8 +12477,9 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1430155517}
+  - component: {fileID: 1430155518}
   m_Layer: 0
-  m_Name: Exhibit_04_The8-BitRevival
+  m_Name: Exhibit_04_CDi
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -12434,6 +12501,19 @@ Transform:
   - {fileID: 267852243}
   m_Father: {fileID: 542465838}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &1430155518
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1430155516}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 156ece14bd590144f85398fabced07e8, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::ProximityAppearance
+  plinthObject: {fileID: 1660362186}
 --- !u!1 &1458683362
 GameObject:
   m_ObjectHideFlags: 0
@@ -12580,6 +12660,11 @@ Transform:
   - {fileID: 1859211085}
   m_Father: {fileID: 2057613279}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &1478208945 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 919132149155446097, guid: 3d0358970bc22d64285d6df8b9e30d40, type: 3}
+  m_PrefabInstance: {fileID: 1414625969}
+  m_PrefabAsset: {fileID: 0}
 --- !u!1 &1479394694
 GameObject:
   m_ObjectHideFlags: 0
@@ -13102,8 +13187,9 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1563052331}
+  - component: {fileID: 1563052332}
   m_Layer: 0
-  m_Name: Exhibit_02_ArcadeGoldenAge
+  m_Name: Exhibit_02_Atari2600
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -13125,6 +13211,19 @@ Transform:
   - {fileID: 2075492145}
   m_Father: {fileID: 542465838}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &1563052332
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1563052330}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 156ece14bd590144f85398fabced07e8, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::ProximityAppearance
+  plinthObject: {fileID: 291389549}
 --- !u!1 &1576540445
 GameObject:
   m_ObjectHideFlags: 0
@@ -14852,8 +14951,9 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1779764548}
+  - component: {fileID: 1779764549}
   m_Layer: 0
-  m_Name: Exhibit_08_Gen08_Wii
+  m_Name: Exhibit_08_Wii
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -14876,6 +14976,19 @@ Transform:
   - {fileID: 1815919948}
   m_Father: {fileID: 542465838}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &1779764549
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1779764547}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 156ece14bd590144f85398fabced07e8, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::ProximityAppearance
+  plinthObject: {fileID: 1048144586}
 --- !u!1 &1785672475
 GameObject:
   m_ObjectHideFlags: 0
@@ -15488,6 +15601,11 @@ Transform:
   - {fileID: 1767146845}
   m_Father: {fileID: 2057613279}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &1850585442 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 919132149155446097, guid: 9ba536ac770bd4b4fb3083a7a62aedde, type: 3}
+  m_PrefabInstance: {fileID: 1120019427}
+  m_PrefabAsset: {fileID: 0}
 --- !u!1 &1851908323
 GameObject:
   m_ObjectHideFlags: 0
@@ -16813,8 +16931,9 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1984983104}
+  - component: {fileID: 1984983105}
   m_Layer: 0
-  m_Name: Exhibit_09__Gen09_Xbox 360
+  m_Name: Exhibit_09_Xbox 360
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -16837,6 +16956,19 @@ Transform:
   - {fileID: 1414625970}
   m_Father: {fileID: 542465838}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &1984983105
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1984983103}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 156ece14bd590144f85398fabced07e8, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::ProximityAppearance
+  plinthObject: {fileID: 1478208945}
 --- !u!1 &1986634351
 GameObject:
   m_ObjectHideFlags: 0
@@ -17973,7 +18105,7 @@ GameObject:
   m_Component:
   - component: {fileID: 2081492744}
   m_Layer: 0
-  m_Name: Exhibit_05_16-BitConsoleWars
+  m_Name: Exhibit_05_EMPTY
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
