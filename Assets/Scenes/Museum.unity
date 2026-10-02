@@ -3242,16 +3242,17 @@ PrefabInstance:
         players for the format.
 
         Infamous
-        for being the platform for Hotel Mario and three
+        for being the platform containing Hotel Mario and three
 
-        Legend of Zelda
-        games, resulting from a deal
+        Legend of
+        Zelda games, resulting from a deal
 
-        with Nintendo.</size>'
+        with Nintendo that allowed the
+        usage of the characters.</size>'
       objectReference: {fileID: 0}
     - target: {fileID: 7129505182872729169, guid: 10501b26f631f2d4f9506b79346ff187, type: 3}
       propertyPath: m_fontSize
-      value: 9.35
+      value: 8.5
       objectReference: {fileID: 0}
     - target: {fileID: 7129505182872729169, guid: 10501b26f631f2d4f9506b79346ff187, type: 3}
       propertyPath: m_margin.w
@@ -5626,15 +5627,17 @@ PrefabInstance:
         <size=45%>(Also known as the Famicom)</size>
 
         <size=45%>1983
+        in Japan, 1985 in USA
 
-        Appeared
-        after the video game crash and
+        Appeared after the video game crash and
 
-        became wildly popular
+        became
+        wildly popular, essentially reviving
 
+        the market, and introduced
+        several major pop culture
 
-        mari
-        o</size>'
+        icons like Mario and Link.</size>'
       objectReference: {fileID: 0}
     - target: {fileID: 7129505182872729169, guid: 10501b26f631f2d4f9506b79346ff187, type: 3}
       propertyPath: m_fontSize
@@ -18855,13 +18858,13 @@ PrefabInstance:
         controllers
 
         Came with a bunch of plastic coverings that you could
-        put onto the screen to augment
+        put onto the
 
-        the otherwise simple graphics</size>'
+        screen to augment the otherwise simple graphics</size>'
       objectReference: {fileID: 0}
     - target: {fileID: 7129505182872729169, guid: 10501b26f631f2d4f9506b79346ff187, type: 3}
       propertyPath: m_fontSize
-      value: 6.4
+      value: 8.25
       objectReference: {fileID: 0}
     - target: {fileID: 7129505182872729169, guid: 10501b26f631f2d4f9506b79346ff187, type: 3}
       propertyPath: m_margin.w
@@ -19822,12 +19825,18 @@ PrefabInstance:
 
         <size=45%>1977
 
-        Pending
-        description</size>'
+        Popularized
+        usage of ROM based swappable cartridges
+
+        Became wildly popular, but
+        a flood of low quality games
+
+        eventually led to the video game market
+        crashing in 1983.</size>'
       objectReference: {fileID: 0}
     - target: {fileID: 7129505182872729169, guid: 10501b26f631f2d4f9506b79346ff187, type: 3}
       propertyPath: m_fontSize
-      value: 10
+      value: 9.5
       objectReference: {fileID: 0}
     - target: {fileID: 7129505182872729169, guid: 10501b26f631f2d4f9506b79346ff187, type: 3}
       propertyPath: m_margin.w
