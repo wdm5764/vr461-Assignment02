@@ -1,5 +1,6 @@
 {
   "dependencies": {
+    "com.meta.xr.sdk.interaction.ovr": "207.0.0",
     "com.unity.ai.navigation": "2.0.14",
     "com.unity.collab-proxy": "2.12.4",
     "com.unity.ide.rider": "3.0.40",
@@ -48,5 +49,14 @@
     "com.unity.modules.vr": "1.0.0",
     "com.unity.modules.wind": "1.0.0",
     "com.unity.modules.xr": "1.0.0"
-  }
+  },
+  "scopedRegistries": [
+    {
+      "name": "Meta XR",
+      "url": "https://npm.developer.oculus.com",
+      "scopes": [
+        "com.meta.xr"
+      ]
+    }
+  ]
 }
