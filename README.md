@@ -1,8 +1,25 @@
-# VR Video Game History Museum
+# CSC 461/592 - VR Video Game History Museum
 
 **Group 5 · Assignment 2**
 
 A virtual reality museum for the Meta Quest 3 that walks visitors through the history of home video game consoles. Explore ten galleries in chronological order, from the Magnavox Odyssey to the PlayStation 5.
+
+## Team
+
+Delsin Egge, Van Nguyen, Wesley Murray II
+
+## Gallery
+
+<img width="899" height="439" alt="image" src="https://github.com/user-attachments/assets/e6da5aea-453d-4ab4-ae01-236f69dfc65c" />
+
+<img width="824" height="449" alt="image" src="https://github.com/user-attachments/assets/c11ea5cf-c970-47b3-a2c6-6d275d90ba7a" />
+
+**Bonus 2: Animations**
+<img width="1536" height="1536" alt="IMG_2636" src="https://github.com/user-attachments/assets/85265780-f6fa-4987-a58d-b3ead9fdc5ae" />
+
+**Bonus 1+3: 10 Exhibitions + Reward**
+<img width="992" height="509" alt="image" src="https://github.com/user-attachments/assets/483a1e72-3621-470c-bdd0-d8813764a719" />
+
 
 ## Exhibits
 
